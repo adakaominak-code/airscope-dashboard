@@ -1,0 +1,21 @@
+[theme]
+base = "dark"
+primaryColor = "#D5AF7B"
+backgroundColor = "#2D2D23"
+secondaryBackgroundColor = "#38372C"
+textColor = "#F2E0CF"
+font = "sans serif"
+
+[theme.light]
+primaryColor = "#4F46E5"
+backgroundColor = "#EEECE6"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1B2236"
+font = "sans serif"
+
+[theme.dark]
+primaryColor = "#D5AF7B"
+backgroundColor = "#2D2D23"
+secondaryBackgroundColor = "#38372C"
+textColor = "#F2E0CF"
+font = "sans serif"

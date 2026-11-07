@@ -1,0 +1,22 @@
+{
+  "exported_at": "2026-11-07T17:17:20.588851+00:00",
+  "sha256": "849eb1fc1e792e8db691660fe8e0103753c8a6246477d85582c984ebf08628bc",
+  "tables": {
+    "admission": 405213,
+    "alert": 3906,
+    "aqi_breakpoint": 42,
+    "aqi_category": 6,
+    "city": 26,
+    "city_day_aqi": 29383,
+    "disease": 8,
+    "festival_date": 6,
+    "hospital": 78,
+    "pollutant": 12,
+    "reading": 1121444,
+    "staging_reading": 0,
+    "state": 21,
+    "station": 177
+  },
+  "source": "XAMPP MariaDB; CPCB/Kaggle and matched OpenAQ. Health data is simulated.",
+  "mode": "Read-only snapshot. XAMPP changes require a new export and deployment."
+}
